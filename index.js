@@ -1,3 +1,3 @@
-function yeet(){
-    console.log("Yes")
+function greet(){
+    console.log("Hello!")
 ;}
